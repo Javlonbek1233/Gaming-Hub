@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Hub",
+  "description": "An interactive premium gaming platform featuring high-performance title cards, dynamic neon dashboards, active streaming lobbies, merchandise store, and customized support queries with neon hover interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
